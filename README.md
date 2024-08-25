@@ -1,0 +1,1 @@
+# Lets-Defend-Check-Point-Security-Gateway-Arbitrary-File-Read-SOC-Alert
