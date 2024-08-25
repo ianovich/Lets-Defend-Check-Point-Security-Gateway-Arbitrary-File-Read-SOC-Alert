@@ -52,7 +52,7 @@
   
 ![Attack](https://github.com/user-attachments/assets/bde4c7e4-90e7-401d-8e13-9910974b0a01)
 
-The attack requires escalation to the Tier2 and incidence resposne team so as to block the malicious IP address and conduct further investigation.
+The attack requires escalation to the Tier2 and incidence response team so as to block the malicious IP address and conduct further investigation.
 
 ![escalate](https://github.com/user-attachments/assets/6d1841c2-4d01-40be-9362-2fa2dc21d885)
 
